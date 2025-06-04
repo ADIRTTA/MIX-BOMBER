@@ -1,17 +1,22 @@
 #!/bin/bash
 
-# Install dependencies
+# Update and install dependencies
 pkg update -y && pkg upgrade -y
 pkg install python -y
 pkg install git -y
 
-# Clone the repo
+# Clone the tool
 git clone https://github.com/ADIRTTA/MIX-BOMBER.git $HOME/MIX-BOMBER
 
-# Add shortcut to ~/.bashrc or ~/.zshrc
+# Install Python requirements
+pip install --upgrade pip
+pip install -r $HOME/MIX-BOMBER/requirements.txt
+
+# Create shortcut command
 echo 'python $HOME/MIX-BOMBER/MIX-BOMBER.py' > $PREFIX/bin/MIX-BOMBER
 chmod +x $PREFIX/bin/MIX-BOMBER
 
+# Done message
 echo
-echo "✅ Installation complete!"
-echo "👉 Now you can run the tool by typing: MIX-BOMBER"
+echo "✅ MIX-BOMBER Installed Successfully!"
+echo "👉 Run the tool by typing: MIX-BOMBER"
