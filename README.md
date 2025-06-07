@@ -60,7 +60,7 @@ MIX-BOMBER
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ADIRTTA/MIX-BOMBER/main/preview.png" width="300" alt="MIX-BOMBER Preview">
+  <img src="https://i.postimg.cc/Gpg2jJKq/Screenshot-2025-06-07-18-38-50-103-edit-com-termux.jpg" width="300" alt="MIX-BOMBER Preview">
 </p>
 
 ---
