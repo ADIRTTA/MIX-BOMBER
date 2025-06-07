@@ -3,7 +3,7 @@
 ## MIX-BOMBER
 
 > A fast and powerful SMS/Call Bomber for Bangladeshi numbers.  
-> Works with multiple APIs | ðŸ§ª Built for testing purposes only!
+> Works with multiple APIs | Built for testing purposes only!
 
 ---
 
