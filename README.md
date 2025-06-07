@@ -1,6 +1,5 @@
 ## *MIX - BOMBER*
 
-````markdown
 <h1 align="center">
   🚀 MIX-BOMBER 🚀
 </h1>
