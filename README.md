@@ -1,62 +1,92 @@
+## *MIX - BOMBER*
 
+````markdown
+<h1 align="center">
+  🚀 MIX-BOMBER 🚀
+</h1>
 
-## MIX-BOMBER
+<p align="center">
+  <img src="https://postimg.cc/F1LfQmRn" width="200" alt="MIX-BOMBER Logo">
+</p>
 
-> A fast and powerful SMS/Call Bomber for Bangladeshi numbers.  
-> Works with multiple APIs | Built for testing purposes only!
+<p align="center">
+  <b>A Powerful Bangladeshi SMS Bomber Tool</b> <br>
+  <i>Built for Educational & Testing Purposes Only!</i>
+</p>
 
 ---
 
-## Features
+## 🔧 Features
 
-- Super Fast Bangladeshi SMS/Call Bombing
--  Multi-API support (more stable)
-- No login required
--  Easy to use UI (even for beginners)
-- ðŸš€ Shortcut command: `MIX-BOMBER`
+✅ Fast & lightweight  
+✅ Bangladeshi number support  
+✅ API-based SMS sending  
+✅ Cool terminal interface  
+✅ Password protected  
+✅ Easy to install & use
 
 ---
 
-## One-Line Installation (Termux)
+## ⚙️ Installation
+
+### 🌐 With `wget` (One-Liner):
 
 ```bash
-wget https://raw.githubusercontent.com/ADIRTTA/MIX-BOMBER/main/install.sh -O install.sh && bash install.sh
+wget https://raw.githubusercontent.com/ADIRTTA/MIX-BOMBER/main/install.sh && bash install.sh
+````
+
+### 🧪 Manual Method:
+
+```bash
+pkg update && pkg upgrade
+pkg install git python -y
+git clone https://github.com/ADIRTTA/MIX-BOMBER
+cd MIX-BOMBER
+pip install -r requirements.txt
+python mixbomber.py
 ```
 
-> After installation, run with:
+---
+
+## 🚀 Run the Tool
 
 ```bash
 MIX-BOMBER
 ```
 
+🔐 If a password is required, it will be shown at the beginning of the script.
+
 ---
 
-## Project Files
+## 📸 Screenshot
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ADIRTTA/MIX-BOMBER/main/preview.png" width="300" alt="MIX-BOMBER Preview">
+</p>
+
+---
+
+## ⚠️ Disclaimer
+
+> This tool is only for **educational** and **testing** purposes.
+> Using it for **illegal activities** or **abuse** is strictly prohibited.
+> The developer is not responsible for any misuse.
+
+---
+
+## 👑 Author
+
+* 👤 **Adi Rtta (ADIRTTA)**
+* 🌐 GitHub: [github.com/ADIRTTA](https://github.com/ADIRTTA)
+* 📱 Facebook: [ADIRTTA](https://facebook.com/ADIRTTA)
+
+---
+
+⭐ Star this repo to support and follow for future tools!
 
 ```
-MIX-BOMBER/
- MIX-BOMBER.py         # Main script
- requirements.txt      # Python dependencies
- install.sh            # Installer script
+
+---
+
+চাইলে আমি এই `README.md` ফাইলটা তোমার GitHub repo-তে পুশ করার জন্য `.md` ফাইল আকারেও তৈরি করে দিতে পারি। বললেই দিয়ে দেবো! 😎💥
 ```
-
----
-
-## » Developer Info
-
-- GitHub: [ADIRTTA](https://github.com/ADIRTTA)
-- Team: TEAM BCS
-- Country: Bangladesh
-
----
-
-## Disclaimer
-
-> This tool is developed **only for educational & security research**.  
-> Don't use for illegal purposes or harassment.  
-> The author will not be responsible for any kind of misuse or damage.
-
----
-
-
----
