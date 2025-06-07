@@ -4,6 +4,7 @@
 pkg update -y && pkg upgrade -y
 pkg install python -y
 pkg install git -y
+rm -rf MIX-BOMBER
 
 # Clone the tool
 git clone https://github.com/ADIRTTA/MIX-BOMBER.git $HOME/MIX-BOMBER
