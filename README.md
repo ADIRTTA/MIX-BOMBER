@@ -1,11 +1,11 @@
-## *MIX - BOMBER*
+
 
 <h1 align="center">
   🚀 MIX-BOMBER 🚀
 </h1>
 
 <p align="center">
-  <img src="https://postimg.cc/F1LfQmRn" width="200" alt="MIX-BOMBER Logo">
+  <img src="https://i.postimg.cc/pXHYP6x5/Lucid-Realism-Design-a-darkthemed-hackerstyle-logo-for-a-tool-2.jpg" width="200" alt="MIX-BOMBER Logo">
 </p>
 
 <p align="center">
