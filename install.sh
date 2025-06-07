@@ -10,7 +10,7 @@ rm -rf MIX-BOMBER
 git clone https://github.com/ADIRTTA/MIX-BOMBER.git $HOME/MIX-BOMBER
 
 # Install Python requirements
-pip install --upgrade pip
+pkg install python-pip
 pip install -r $HOME/MIX-BOMBER/requirements.txt
 
 # Create shortcut command
