@@ -1,10 +1,4 @@
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Author-ADIRTTA-red?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/TEAM-BCS-black?style=flat-square&logo=linux" />
-  <img src="https://img.shields.io/badge/TOOL-MIX--BOMBER-green?style=flat-square&logo=python" />
-</p>
----
 
 ## MIX-BOMBER
 
