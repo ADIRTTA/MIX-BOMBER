@@ -8,8 +8,8 @@
 
 ## MIX-BOMBER
 
-> ðŸ‡§ðŸ‡© A fast and powerful SMS/Call Bomber for Bangladeshi numbers.  
-> ðŸ“± Works with multiple APIs | ðŸ§ª Built for testing purposes only!
+> A fast and powerful SMS/Call Bomber for Bangladeshi numbers.  
+> Works with multiple APIs | ðŸ§ª Built for testing purposes only!
 
 ---
 
