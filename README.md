@@ -42,7 +42,7 @@ pkg install git python -y
 git clone https://github.com/ADIRTTA/MIX-BOMBER
 cd MIX-BOMBER
 pip install -r requirements.txt
-python mixbomber.py
+python3 MIX-BOMBER.py
 ```
 
 ---
