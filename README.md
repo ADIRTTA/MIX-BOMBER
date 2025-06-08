@@ -39,7 +39,7 @@ wget https://raw.githubusercontent.com/ADIRTTA/MIX-BOMBER/main/install.sh && bas
 ```bash
 pkg update && pkg upgrade
 pkg install git python -y
-git clone https://github.com/ADIRTTA/MIX-BOMBER
+git clone https://github.com/ADIRTTA/MIX-BOMBER.git
 cd MIX-BOMBER
 pip install -r requirements.txt
 python3 MIX-BOMBER.py
